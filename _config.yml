@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: joamit
+title: jekyll-theme-hackcss
 description: > # this means to ignore newlines until "baseurl:"
-  Personal website for listing resume and projects
-repository: https://github.com/joamit/joamit.github.io
-baseurl: /joamit  # the subpath of your site, e.g. /blog
-url: https://joamit.github.io  # the base hostname & protocol for your site
+  A minimalistic theme for Jekyll, based on hack.css
+repository: https://github.com/wemake-services/jekyll-theme-hackcss
+baseurl: /jekyll-theme-hackcss  # the subpath of your site, e.g. /blog
+url: https://wemake-services.github.io  # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -24,8 +24,8 @@ sass:
 theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
-your_name: amit.joshi
-email: amitjoshiave@gmail.com
+your_name: wemake.services
+email: mail@sobolevn.me
 
 navigation:
   - text: Home
@@ -33,9 +33,8 @@ navigation:
   - text: Docs
     url: /docs
   - text: Examples
-    url: /joamitDynamic
+    url: /examples
 
-#Dynamic data to populate in html pages, see joamitDynamic.html for reference
 projects:
   - name: git-secret
     description: A bash-tool to store your private data inside a git repository.
@@ -54,9 +53,12 @@ projects:
 
 social:
   - service: github
-    username: joamit
-    link: https://github.com/joamit
+    username: sobolevn
+    link: https://github.com/sobolevn
   - service: twitter
-    username: joamit
-    link: https://twitter.com/joamit
+    username: sobolevn
+    link: https://twitter.com/sobolevn
 
+# Plugins
+gems:
+  - jekyll-seo-tag
