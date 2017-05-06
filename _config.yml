@@ -30,8 +30,8 @@ email: amitjoshiave@gmail.com
 navigation:
   - text: Home
     url: /
-  - text: Docs
-    url: /docs
+  - text: Resume
+    url: /resume
   - text: Examples
     url: /examples
 
