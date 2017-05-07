@@ -36,10 +36,10 @@ navigation:
     url: /projects
 
 projects:
-  - name: angular-snake
+  - name: snakeyy
     description: AngularJS based Classic Snake Game.
-    link: https://github.com/joamit/snakey
-    image: https://github.com/joamit/joamit.github.io/blob/master/images/2017-05-08-xml.png
+    link: https://github.com/joamit/snakeyy
+    image: /images/snakeyy.png
 
 social:
   - service: github
