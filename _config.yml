@@ -38,7 +38,7 @@ navigation:
 projects:
   - name: angular-snake
     description: AngularJS based Classic Snake Game.
-    link: https://github.com/joamit/angular-snake
+    link: https://github.com/joamit/snakey
 
 social:
   - service: github
