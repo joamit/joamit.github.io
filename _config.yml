@@ -40,6 +40,10 @@ projects:
     description: AngularJS based Classic Snake Game.
     link: https://github.com/joamit/snakeyy
     image: /images/snakeyy.png
+  - name: angular-chess
+    description: AngularJS based Chess Game.
+    link: https://github.com/joamit/angular-chess
+    image:
 
 social:
   - service: github
