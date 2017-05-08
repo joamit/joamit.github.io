@@ -5,7 +5,7 @@ date: 2017-05-09 08:53:07
 author: joamit
 categories: AngularJS
 short_description: This post will cover building of chess game using Angular2 and Angular2Material.
-image_preview: https://joamit.github.io/images/snakeyy.png
+image_preview: https://joamit.github.io/images/angular-chess.png
 ---
 Chess game based on Angular2 and Angular2Material.
 

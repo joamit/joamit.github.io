@@ -8,7 +8,7 @@
 # Site settings
 title: joamit
 description: > # this means to ignore newlines until "baseurl:"
-  Personal webpage
+  Software developer, technology enthusiast, casual Photographer and occasional traveller..
 repository: https://github.com/joamit/joamit.github.io
 baseurl: https://joamit.github.io  # the subpath of your site, e.g. /blog
 url: https://joamit.github.io  # the base hostname & protocol for your site
@@ -37,13 +37,13 @@ navigation:
 
 projects:
   - name: snakeyy
-    description: AngularJS based Classic Snake Game.
+    description: AngularJS spinoff of Classic Snake Game.
     link: https://github.com/joamit/snakeyy
     image: /images/snakeyy.png
   - name: angular-chess
-    description: AngularJS based Chess Game.
+    description: Chess Game built on Angular2 and Angular2Material
     link: https://github.com/joamit/angular-chess
-    image:
+    image: /images/angular-chess.png
 
 social:
   - service: github
